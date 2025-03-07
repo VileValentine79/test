@@ -3,3 +3,8 @@ testing
 
 ## Repo by: Edison Martinez
 first repository
+### 3rd header
+
+** bold**
+
+* * italized* *
