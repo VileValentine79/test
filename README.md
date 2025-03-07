@@ -8,7 +8,8 @@ first repository
 ** bold**
 
 *italized*  
-~~cross~~<sub>    suscript</sup>   
+~~cross~~<sub> 
+suscript</sup>   
 <ins> uderline</ins>   
 . quote  
 ```
