@@ -7,6 +7,6 @@ first repository
 
 ** bold**
 
-*italized*
+*italized*  
 ~~cross~~<sub>suscript</sup> 
 <ins> uderline</ins> 
