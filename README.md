@@ -6,5 +6,4 @@ first repository
 ### 3rd header
 
 ** bold**
-
-* * italized* *
+italized*
