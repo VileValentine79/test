@@ -11,7 +11,7 @@ first repository
 ~~cross~~<sub>    
 suscript</sup>     
 <ins> uderline</ins>   
-. quote  
+>quote  
 ```
 code
 ```
