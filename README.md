@@ -9,7 +9,7 @@ first repository
 
 *italized*  
 ~~cross~~<sub> 
-suscript</sup>   
+suscript</sup>     
 <ins> uderline</ins>   
 . quote  
 ```
